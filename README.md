@@ -8,7 +8,7 @@ A python script to display comments from /r/wallstreetbets in a Times Square sty
 - Inclusion of current stock prices via Yahoo Finance
 - Automatic removal of unlucky stock advice once comment queue gets full
 - Windows only. Linux maybe on the way. OSX lol
-
+- Preview <a href="https://imgur.com/a/S4xai2Y">here</a>
 
 ## Installation
 1. Download the zip <a id="raw-url" href="https://github.com/ArobertsStratoIT/wsbticker/raw/master/dist/WSBTicker1.0.zip">WSBTicker1.0.zip</a>
