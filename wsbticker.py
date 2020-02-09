@@ -10,11 +10,21 @@ from tkinter import *
 import webbrowser
 import configparser
 import os
+from os import path
+import tkinter.messagebox
 
 
 config = configparser.ConfigParser()
 config.read('wsbt_config.ini')
 
+if not path.exists("praw.ini"):
+    tkinter.messagebox.showerror("Error", "The praw.ini file is not found. Please redownload the application.")
+    os._exit(1)
+
+if not path.exists("gripbar.gif"):
+    tkinter.messagebox.showerror("Error", "The gripbar.gif file is not found. Please redownload the application.")
+    os._exit(1)
+    
 
 
 if 'SETTINGS' in config:
