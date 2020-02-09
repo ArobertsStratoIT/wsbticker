@@ -7,6 +7,7 @@ A python script to display comments from /r/wallstreetbets in a Times Square sty
 - Always on-top (giggity)
 - Inclusion of current stock prices via Yahoo Finance
 - Automatic removal of unlucky stock advice once comment queue gets full
+- Windows only. Linux maybe on the way. OSX lol
 
 
 ## Installation
@@ -16,4 +17,4 @@ A python script to display comments from /r/wallstreetbets in a Times Square sty
 4. Run the exe. Maybe make a shortcut if you want.
 
 ## Roadmap
-- Nothing ahead as I've basically exhausted my coding ability. Maybe linux support?
+- Nothing ahead as I've basically exhausted my coding ability. 
