@@ -10,7 +10,7 @@ A python script to display comments from /r/wallstreetbets in a Times Square sty
 
 
 ##Installation
-1. Download the zip <a id="raw-url" href="https://raw.githubusercontent.com/ArobertsStratoIT/wsbticker/master/dist/WSBTicker1.0.zip">Download WSBTicker1.0.zip</a>
+1. Download the zip <a id="raw-url" href="https://github.com/ArobertsStratoIT/wsbticker/blob/master/dist/WSBTicker1.0.zip">WSBTicker1.0.zip</a>
 2. Extract the zip
 3. Configure the ini file if you want
 4. Run it exe. Maybe make a shortcut if you want.
